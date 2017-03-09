@@ -6,8 +6,10 @@ int main(void) {
 
 	if (num == 1)
 	{
-		printf("À±µ¿¼·\n");
+		printf("Ã€Â±ÂµÂ¿Â¼Â·\n");
 
 	}
-
+	else if(num==2){
+		printf("  ì‚´ê³ ìžˆ.\n");
+	}
 }
